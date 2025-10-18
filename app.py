@@ -77,4 +77,4 @@ ax.set_title(f'ROI Projection ({num_rooms} Room(s))')
 ax.legend()
 ax.grid(True)
 
-st.pyplot(fig, use_container_width=Tr
+st.pyplot(fig, use_container_width=True)
